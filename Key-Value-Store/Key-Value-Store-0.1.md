@@ -13,7 +13,7 @@
 An RFC for key-value-store solutions.
 
 ## Description
-{A description}
+A data modelling technique based to associative arrays. 
 
 ## More details description
 {A more detailed description}
@@ -36,4 +36,16 @@ An RFC for key-value-store solutions.
 
 [ABNF Wikipedia](http://en.wikipedia.org/wiki/Augmented_Backus%E2%80%93Naur_Form)
 
-{Add any references or related RFC's here}
+[NoSQL Paper] http://www.christof-strauch.de/nosqldbs.pdf
+
+[Key-Value stores Paper] http://blog.marc-seeger.de/assets/papers/Ultra_Large_Sites_SS09-Seeger_Key_Value_Stores.pdf
+
+[Key-Value storage Meeting Proceedings] http://blog.plathome.com/2009/02/first-key-value-storage-meeting-held.html
+
+[Dynamo DB Amazon] http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
+
+[Benchmarking tool] https://www.usenix.org/legacy/event/hotstorage10/tech/full_papers/Gokhale.pdf
+
+[Benchmark] http://static.ph.ed.ac.uk/dissertations/hpc-msc/2011-2012/Submission-1054977.pdf
+
+[Project Voldemort - design] http://www.project-voldemort.com/voldemort/design.html
